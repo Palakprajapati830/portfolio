@@ -1,0 +1,221 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.navbar
+{
+    width: 100%;
+    height: 200px;
+   
+}
+.grocery
+{
+    width: 80%;
+    height: 200px;
+    color: black;
+    margin: auto;
+}
+.grocery h2
+{
+    float: left;
+    margin-top: 50px;
+}
+.grocery h4
+{
+    float: left;
+    margin-top: 90px;
+    margin-left: -245px;
+}
+.grocery input 
+{
+    float: left;
+    margin-top: 125px;
+    margin-left: -310px;
+    width: 28%;
+    text-indent: 7px;
+    height: 30px;
+}
+.grocery i 
+{ 
+    float: left;
+    margin-top: 130px;
+    margin-left: -30px;
+    color: black;
+}
+.grocery .computer
+{
+    width: 350px;
+    height: 350px;
+    float: right;
+    margin-top: -150px;
+    margin-left: 500px;
+}
+.product
+{
+    float: left;
+    margin-top: 180px;
+    margin-left: -3px;
+    color: black;
+}
+.productitem
+{
+    float: left;
+    color: black;
+    width: 5%;
+    padding: 5px;
+    border: 1px solid black;
+    margin: -22px 850px;
+    border-radius: 5px;
+
+}
+.productitem i
+{
+    float: left;
+    color: black;
+    width: 5%;
+    padding: 5px;
+    color: black;
+    margin: -22px 25px;
+
+}
+.productitem1
+{
+    float: left;
+    padding: 5px;
+    color: black;
+    width: 15%;
+    border: 1px solid black;
+    margin: -22px 950px;
+    border-radius: 5px;
+}
+.productitem1 i
+{
+    float: left;
+    color: black;
+    width: 5%;
+    padding: 5px;
+    color: black;
+    margin: -22px 135px;
+
+}
+.p1
+{
+    float: left;
+    width: 250px;
+    height: 300px;
+    border: 1px solid black;
+    background-image: url('image/p6.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px 0px 0px 0px;
+}
+.p2
+{
+    float: left;
+    width: 250px;
+    height: 300px;
+    border: 1px solid black;
+    background-image: url('image/p2.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px 0px 0px 38px;
+}    
+.p3
+{
+    float: left;
+    width: 250px;
+    height: 300px;
+    border: 1px solid black;
+    background-image: url('image/p1.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px 0px 0px 38px;
+}.p4
+{
+    float: right;
+    width: 250px;
+    height: 300px;
+    border: 1px solid black;
+    background-image: url('image/p8.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px 0px 0px 0px;
+}
+.p5
+{
+    float: left;
+    width: 250px;
+    height: 300px;
+    border: 1px solid black;
+    background-image: url('image/p3.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 38px 0px 0px 0px;
+}
+.p6
+{
+    float: left;
+    width: 250px;
+    height: 300px;
+    border: 1px solid black;
+    background-image: url('image/p1.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 38px 0px 0px 38px;
+}    
+.p7
+{
+    float: left;
+    width: 250px;
+    height: 300px;
+    border: 1px solid black;
+    background-image: url('image/p6.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 38px 0px 0px 38px;
+}.p8
+{
+    float: right;
+    width: 250px;
+    height: 300px;
+    border: 1px solid black;
+    background-image: url('image/p5.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 38px 0px 0px 0px;
+}
+.p9
+{
+    float: left;
+    width: 250px;
+    height: 300px;
+    border: 1px solid black;
+    background-image: url('image/p7.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 38px 0px 38px 0px;
+}
+.p10
+{
+    float: left;
+    width: 250px;
+    height: 300px;
+    border: 1px solid black;
+    background-image: url('image/p4.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 38px 0px 38px 38px;
+}
+
