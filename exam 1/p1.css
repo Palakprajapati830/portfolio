@@ -1,0 +1,484 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+.navbar 
+{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+
+.navbar .menu ul
+{
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar .menu ul li
+{
+    list-style: none;
+    padding: 0px 10px;
+    color: bisque;
+    align-items: center;
+    font-size: 18px;
+    font-family: montserrat;
+}
+
+.banner 
+{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-image: url(image/banner.jpg);
+    float: left;
+    height: 600px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+}
+.info
+{
+    width: 100%;
+    height: 500px;
+}
+.info h1
+{ 
+    top: 40px;
+    left: -60px;
+    margin-left: 650px;
+    position: relative;
+    color: rgb(21, 18, 18);
+}
+.info h3
+{
+    top: 70px;
+    margin-left: 450px;
+    position: relative;
+    color: black;
+}
+.data
+{
+    width: 100%;
+    height: 200px;
+    position: relative;
+}
+.data1
+{
+    width: 5%;
+    height:55px;
+    top: 280px;
+    left: 180px;
+    position: absolute;
+    border-radius: 50%;
+}
+.data2
+{
+    width: 5%;
+    height:55px;
+    top: 280px;
+    left: 650px;
+    position: absolute;
+    border-radius: 50%;
+}
+.data3
+{
+    width: 5%;
+    height:55px;
+    left:1100px ;
+    top: 280px;
+    position: absolute;
+    border-radius: 50%;
+}
+.data4
+{
+    width: 5%;
+    height:55px;
+    top: 680px;
+    left: 180px;
+    position: absolute;
+    border-radius: 50%;
+}
+.data5
+{
+    width: 5%;
+    height:55px;
+    top: 680px;
+    left: 650px;
+    position: absolute;
+    border-radius: 50%;
+}
+.data6
+{
+    width: 5%;
+    height:55px;
+    left:1100px ;
+    top: 680px;
+    position: absolute;
+    border-radius: 50%;
+}
+.p1
+{
+    top: 160px;
+    margin-left: 130px;
+    position: relative;
+ 
+}
+.p2
+{
+    top: 120px;
+    margin-left: 600px;
+    position: relative;   
+}
+.p3
+{
+    top: 80px;
+    margin-left: 1030px;
+    position: relative;
+    
+}
+.p4
+{
+    top: 450px;
+    
+    margin-left: 130px;
+    position: relative;
+    
+}
+.p5
+{
+    top: 410px;
+    
+    margin-left: 600px;
+    position: relative;
+   
+}
+.p6
+{
+    top: 375px;
+   
+    margin-left: 1040px;
+    position: relative;
+    
+}
+.p7
+{
+    top: 950px;
+    width: 30%;
+    margin-left: 50px;
+    position: absolute;
+    
+}
+.p8
+{
+    top: 950px;
+    width: 30%;
+    margin-left: 500px;
+    position: absolute;
+    
+}
+.p9
+{
+    top:950px;
+    width: 30%;
+    margin-left: 950px;
+    position: absolute;
+    
+}
+.p10
+{
+    top: 1400px;
+    width: 30%;
+    margin-left: 50px;
+    position: absolute;
+    
+}
+.p11
+{
+    top: 1400px;
+    width: 30%;
+    margin-left: 500px;
+    position: absolute;
+    
+}
+.p12
+{
+    top: 1400px;
+    width: 30%;
+    margin-left: 950px;
+    position: absolute;
+    
+}
+.info2
+{
+    width: 100%;
+    height: 800px;
+}
+.info2 h1
+{
+    top: 650px;
+    margin-left: 650px;
+    position: relative;
+    color: rgb(21, 18, 18);
+}
+.info2 h3
+{
+    top: 700px;
+    margin-left: 500px;
+    position: relative;
+}
+.info2 h2
+{
+    width: 5%;
+    top: 800px;
+    margin-left: 200px;
+    position: relative;
+}
+.images
+{
+    float: left;
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    position: relative;
+    border: 4px solid rgb(30, 23, 23);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 600px 0px 0px 350px;
+}
+.info2 .images:hover 
+{
+    scale: 1.3;
+}
+.images1
+{
+    float: left;
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    position: relative;
+    border: 4px solid rgb(30, 23, 23);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: -300px 0px 0px 700px;
+}
+.info2 .images1:hover 
+{
+    scale: 1.3;
+    
+}
+.images2
+{
+    float: left;
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    position: relative;
+    border: 4px solid rgb(30, 23, 23);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 50px 0px 0px 350px;
+}
+.info2 .images2:hover 
+{
+    scale: 1.3;
+   
+}
+.images3
+{
+    float: left;
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    position: relative;
+    border: 4px solid rgb(30, 23, 23);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 50px 0px 0px 60px;
+}
+.info2 .images3:hover  
+{
+    scale: 1.3;
+    
+}
+.images4
+{
+    float: left;
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    position: relative;
+    border: 4px solid rgb(30, 23, 23);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 50px 0px 0px 350px;
+}
+.info2 .images4:hover  
+{
+    scale: 1.3;
+    
+}
+.images5
+{
+    float: left;
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    position: relative;
+    border: 4px solid rgb(30, 23, 23);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 50px 0px 0px 60px;
+}
+.info2 .images5:hover 
+{
+    scale: 1.3;
+    
+}
+.info3
+{
+    width: 100%;
+    height: 900px;
+}
+.info3 h1
+{
+    top: 1050px;
+    margin-left: 650px;
+    position: relative;
+}
+.info3 h3
+{
+    top: 2900px;
+    margin-left: 450px;
+    position: absolute;
+}
+.photo
+{
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+.photo .photo1
+{
+    width: 20%;
+    top: 310px;
+    margin-left: -800px;
+    position: absolute;
+}
+.photo .photo1:hover 
+{
+    scale: 1.2;
+    border-radius: 5px;
+}
+.photo .photo2
+{
+    width: 20%;
+    top: 310px;
+    margin-left: -450px;
+    position: absolute;
+}
+.photo .photo2:hover 
+{
+    scale: 1.2;
+    border-radius: 5px;
+}
+.photo .photo3
+{
+    width: 20%;
+    top: 310px;
+    margin-left: -100px;
+    position: absolute;
+}
+.photo .photo3:hover 
+{
+    scale: 1.2;
+    border-radius: 5px;
+}
+.info4
+{
+    width: 100%;
+    height: 200px;
+}
+.p13
+{
+    top: 3200px;
+    width: 40%;
+    margin-left: 200px;
+    position: absolute;
+}
+.p14
+{
+    top: 3250px;
+    width: 25%;
+    margin-left: 200px;
+    position: absolute;
+}
+.p15
+{
+    top:  3200px;
+    width: 30%;
+    margin-left: 555px;
+    position: absolute;
+}   
+.p16
+{
+    top: 3250px;
+    width: 25%;
+    margin-left: 555px;
+    
+    position: absolute;
+} 
+.p17
+{
+    top: 3200px;
+    width: 30%;
+    margin-left: 915px;
+    position: absolute;
+} 
+.p18
+{
+    top: 3250px;
+    width: 25%;
+    margin-left:915px;
+    position: absolute;
+} 
+.footer
+{
+    width: 100%;
+    height: 150px;
+    position: relative;
+    background-color: rgb(174, 186, 197);
+}
+.footer i
+{
+  top: 25%;
+  margin-left: 200px;
+  position: absolute;
+
+}
+.footer1 i
+{
+  top: 520%;
+  margin-left: 600px;
+  
+  position: absolute;
+
+}
+.footer2 i
+{
+  top: 520%;
+  
+  margin-left: 900px;
+  position: absolute;
+
+}
